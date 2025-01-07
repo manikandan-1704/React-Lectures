@@ -7,7 +7,7 @@ export default function App() {
   return (
     <>
       <h1 className= 'active'>{username}</h1>
-      <p>This is Demo</p>
+      <p>This is Demo App</p>
     </>
   );
 }
